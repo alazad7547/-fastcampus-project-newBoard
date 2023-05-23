@@ -9,5 +9,4 @@ public class FastCampusProjectNewBoardApplication {
     public static void main(String[] args) {
         SpringApplication.run(FastCampusProjectNewBoardApplication.class, args);
     }
-
 }
